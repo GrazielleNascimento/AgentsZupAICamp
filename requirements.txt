@@ -1,0 +1,4 @@
+robotframework>=3.2
+robotframework-requests==0.9.7
+stackclient==0.2.4
+python-dotenv==1.1.1
